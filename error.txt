@@ -1,0 +1,1 @@
+./convertJpgToPngNew.sh: 10: cd: can't cd to ~/Documentos/imagens-novos-livros
